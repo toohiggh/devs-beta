@@ -1,0 +1,15 @@
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-1 8:29:40] Logging in...
+[ Shard 0 - INFO  ] [2024-11-1 8:29:42] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-1 8:29:55] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-1 8:29:58] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-1 8:31:34] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-1 8:31:46] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-1 8:32:16] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0

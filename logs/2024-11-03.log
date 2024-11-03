@@ -1,0 +1,482 @@
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 8:49:21] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 8:49:23] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 8:49:48] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:51:56] [RELOAD] Failed to load new file data - Was it just created?
+[ Shard 0 - INFO  ] [2024-11-3 8:51:59] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 8:52:10] [RELOAD] Failed to load new file data - Was it just created?
+[ Shard 0 - INFO  ] [2024-11-3 8:52:12] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 8:52:25] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 8:53:0] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:53:0] TypeError: Cannot read properties of undefined (reading 'has')\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\buttons\\verifyOTP.js:10:23)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:55:13)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)\n
+    at WebSocketManager.emit (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n
+    at WebSocketShard.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 8:54:20] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 8:54:35] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:54:35] TypeError: Cannot read properties of undefined (reading 'has')\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\buttons\\verifyOTP.js:10:23)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:55:13)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)\n
+    at WebSocketManager.emit (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n
+    at WebSocketShard.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 8:54:43] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 8:54:51] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 8:54:53] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 8:55:8] higgh_dev (1023172721141624832) > /setup 1301741293306908703
+[ Shard 0 - INFO  ] [2024-11-3 8:55:8] TypeError [ColorConvert]: Unable to convert "BLUE" to a number.\n
+    at resolveColor (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\util\\Util.js:295:11)\n
+    at RoleManager.create (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\managers\\RoleManager.js:153:15)\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\commands\\setupVerifyChannel.js:25:46)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:36:12)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)
+[ Shard 0 - INFO  ] [2024-11-3 8:55:23] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 8:55:39] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 8:55:47] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:55:50] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:55:53] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] No OTP found for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 8:55:57] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 8:56:3] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 321992 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 8:56:16] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:56:22] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 8:57:11] higgh_dev (1023172721141624832) > /setup 1301741293306908703 1
+[ Shard 0 - INFO  ] [2024-11-3 8:57:14] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 8:57:19] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 817693 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 8:57:34] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 8:57:38] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 8:59:45] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 8:59:56] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:0:0] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 456334 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 9:0:2] UNCAUGHT EXCEPTION: Error: No recipients defined\n
+    at SMTPConnection._formatError (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n
+    at SMTPConnection._setEnvelope (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1045:34)\n
+    at SMTPConnection.send (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:629:14)\n
+    at sendMessage (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:228:28)\n
+    at C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:286:25\n
+    at SMTPConnection._actionAUTHComplete (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1600:9)\n
+    at SMTPConnection.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n
+    at SMTPConnection._processResponse (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n
+    at SMTPConnection._onData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n
+    at SMTPConnection._onSocketData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)
+[ Shard 0 - INFO  ] [2024-11-3 9:1:7] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:1:19] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:1:31] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 270159 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 9:1:34] UNCAUGHT EXCEPTION: Error: No recipients defined\n
+    at SMTPConnection._formatError (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n
+    at SMTPConnection._setEnvelope (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1045:34)\n
+    at SMTPConnection.send (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:629:14)\n
+    at sendMessage (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:228:28)\n
+    at C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:286:25\n
+    at SMTPConnection._actionAUTHComplete (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1600:9)\n
+    at SMTPConnection.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n
+    at SMTPConnection._processResponse (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n
+    at SMTPConnection._onData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n
+    at SMTPConnection._onSocketData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)
+[ Shard 0 - INFO  ] [2024-11-3 9:2:32] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:2:47] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:2:53] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 960502 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 9:2:55] UNCAUGHT EXCEPTION: Error: No recipients defined\n
+    at SMTPConnection._formatError (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n
+    at SMTPConnection._setEnvelope (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1045:34)\n
+    at SMTPConnection.send (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:629:14)\n
+    at sendMessage (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:228:28)\n
+    at C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:286:25\n
+    at SMTPConnection._actionAUTHComplete (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1600:9)\n
+    at SMTPConnection.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n
+    at SMTPConnection._processResponse (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n
+    at SMTPConnection._onData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n
+    at SMTPConnection._onSocketData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)
+[ Shard 0 - INFO  ] [2024-11-3 9:4:39] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:4:49] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:4:53] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 283656 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 9:4:54] UNCAUGHT EXCEPTION: Error: No recipients defined\n
+    at SMTPConnection._formatError (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n
+    at SMTPConnection._setEnvelope (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1045:34)\n
+    at SMTPConnection.send (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:629:14)\n
+    at sendMessage (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:228:28)\n
+    at C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:286:25\n
+    at SMTPConnection._actionAUTHComplete (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1600:9)\n
+    at SMTPConnection.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n
+    at SMTPConnection._processResponse (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n
+    at SMTPConnection._onData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n
+    at SMTPConnection._onSocketData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)
+[ Shard 0 - INFO  ] [2024-11-3 9:7:1] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:7:7] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:7:11] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:7:14] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:7:22] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:7:25] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 286166 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 9:7:27] UNCAUGHT EXCEPTION: Error: No recipients defined\n
+    at SMTPConnection._formatError (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n
+    at SMTPConnection._setEnvelope (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1045:34)\n
+    at SMTPConnection.send (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:629:14)\n
+    at sendMessage (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:228:28)\n
+    at C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:286:25\n
+    at SMTPConnection._actionAUTHComplete (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1600:9)\n
+    at SMTPConnection.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:554:26)\n
+    at SMTPConnection._processResponse (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n
+    at SMTPConnection._onData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)\n
+    at SMTPConnection._onSocketData (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:195:44)
+[ Shard 0 - INFO  ] [2024-11-3 9:9:5] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 9:14:2] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 9:14:3] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 9:14:18] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:14:24] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - ERROR ] Error in email verification: Error: INVALID_EMAIL_FORMAT
+    at validateEmail (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\emailService.js:9:15)
+    at handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\enterEmail.js:42:32)
+    at execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:69:12)
+    at Client.emit (node:events:519:28)
+    at InteractionCreateAction.handle (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\Overrides\InteractionEvent.js:98:10)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\WebSocketManager.js:348:31)
+    at WebSocketManager.<anonymous> (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\WebSocketManager.js:232:12)
+    at WebSocketManager.emit (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@vladfrangu\async_event_emitter\dist\index.cjs:287:31)
+    at WebSocketShard.<anonymous> (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@discordjs\ws\dist\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 9:15:46] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 9:16:6] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:16:14] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:16:18] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - ERROR ] Error in email verification: Error: INVALID_EMAIL_FORMAT
+    at validateEmail (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\emailService.js:9:15)
+    at handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\enterEmail.js:42:32)
+    at execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:69:12)
+    at Client.emit (node:events:519:28)
+    at InteractionCreateAction.handle (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\Overrides\InteractionEvent.js:98:10)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\WebSocketManager.js:348:31)
+    at WebSocketManager.<anonymous> (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\WebSocketManager.js:232:12)
+    at WebSocketManager.emit (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@vladfrangu\async_event_emitter\dist\index.cjs:287:31)
+    at WebSocketShard.<anonymous> (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@discordjs\ws\dist\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 9:16:24] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 9:16:28] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] No OTP found for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 9:16:31] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 9:16:37] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - ERROR ] Error in email verification: DiscordAPIError[50006]: Cannot send an empty message
+    at handleErrors (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@discordjs\rest\dist\index.js:727:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BurstHandler.runRequest (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@discordjs\rest\dist\index.js:831:23)
+    at async _REST.request (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@discordjs\rest\dist\index.js:1272:22)
+    at async ModalSubmitInteraction.reply (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\Overrides\Interactions.js:50:3)
+    at async handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\enterEmail.js:50:17)
+    at async execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:69:6) {
+  requestBody: { files: [], json: { type: 4, data: [Object] } },
+  rawError: { message: 'Cannot send an empty message', code: 50006 },
+  code: 50006,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1302479029416230922/aW50ZXJhY3Rpb246MTMwMjQ3OTAyOTQxNjIzMDkyMjpEVnJyUlRkRzJNR0ZQdlQ0QVdoRWhiRFF3YlRiSndIcHpQZ3R4VkxwV3BhYzk2T3EwRzZQcm1ZY1EwSnhkUTM1bXdUVVBLUWR2TnlNOElUYTRWVFpoUWJIaWMzaG5iRnNna21pdktNZWhyWkMwdDE5U21WMUZsQllQZVQxVzEzMA/callback'
+}
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 0 messages
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 10:2:59] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 10:3:0] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 10:3:35] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:3:35] TypeError: Cannot read properties of null (reading 'has')\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\commands\\setupVerifyChannel.js:29:26)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:36:12)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)\n
+    at WebSocketManager.emit (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n
+    at WebSocketShard.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 10:4:48] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:4:54] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 0 messages
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 10:5:3] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 10:5:5] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 10:5:17] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:5:17] TypeError: Cannot read properties of null (reading 'has')\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\commands\\setupVerifyChannel.js:37:26)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:36:12)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)\n
+    at WebSocketManager.emit (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n
+    at WebSocketShard.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 10:7:10] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:7:22] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:7:22] TypeError: Cannot read properties of null (reading 'has')\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\commands\\setupVerifyChannel.js:36:77)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:36:12)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)\n
+    at WebSocketManager.emit (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n
+    at WebSocketShard.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 10:8:42] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:8:56] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:9:23] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:10:49] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:10:59] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:10:59] TypeError: Cannot read properties of null (reading 'toArray')\n
+    at Object.execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\commands\\setupVerifyChannel.js:39:53)\n
+    at InteractionHandler (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:141:20)\n
+    at execute (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\events\\interactionCreate.js:36:12)\n
+    at Client.emit (node:events:519:28)\n
+    at InteractionCreateAction.handle (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\utils\\Overrides\\InteractionEvent.js:98:10)\n
+    at module.exports [as INTERACTION_CREATE] (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\handlers\\INTERACTION_CREATE.js:4:36)\n
+    at WebSocketManager.handlePacket (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:348:31)\n
+    at WebSocketManager.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:232:12)\n
+    at WebSocketManager.emit (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@vladfrangu\\async_event_emitter\\dist\\index.cjs:287:31)\n
+    at WebSocketShard.<anonymous> (C:\\Users\\Admin\\Desktop\\Kuku\\Email-Verifier\\node_modules\\@discordjs\\ws\\dist\\index.js:1190:51)
+[ Shard 0 - INFO  ] [2024-11-3 10:11:33] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:11:43] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:11:54] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:12:49] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:12:59] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1
+[ Shard 0 - INFO  ] [2024-11-3 10:13:8] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:13:13] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-3 10:13:20] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:13:23] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] No OTP found for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 10:13:28] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:13:34] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 712170 (expires in 5 minutes)
+[ Shard 0 - ERROR ] Failed to send email: ReferenceError: otpDuration is not defined
+    at sendOtpEmail (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\emailService.js:58:53)
+    at handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\enterEmail.js:46:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:69:6)
+[ Shard 0 - INFO  ] [2024-11-3 10:15:59] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:16:7] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:21:53] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:21:57] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-3 10:22:0] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:22:5] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 343770 (expires in 5 minutes)
+[ Shard 0 - ERROR ] Failed to send email: ReferenceError: otpDuration is not defined
+    at sendOtpEmail (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\emailService.js:58:53)
+    at handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\enterEmail.js:46:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:69:6)
+[ Shard 0 - INFO  ] [2024-11-3 10:23:55] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:24:0] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:24:8] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:24:26] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:24:37] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:24:40] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-3 10:24:44] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:24:46] higgh_dev (1023172721141624832) > [support]
+[ Shard 0 - INFO  ] [2024-11-3 10:24:50] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:24:55] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 142976 (expires in 5 minutes)
+[ Shard 0 - ERROR ] Failed to send email: ReferenceError: otpDuration is not defined
+    at sendOtpEmail (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\emailService.js:58:53)
+    at handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\enterEmail.js:46:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:69:6)
+[ Shard 0 - INFO  ] [2024-11-3 10:25:1] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 0 messages
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 10:25:9] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 10:25:11] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 10:25:20] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:25:36] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1302474063872135241 India
+[ Shard 0 - INFO  ] [2024-11-3 10:25:39] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:25:45] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 861448 (expires in 5 minutes)
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 861448 (expires in 2 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 10:26:0] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:26:5] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 10:27:18] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:27:19] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:27:35] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:27:41] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-3 10:27:49] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:27:52] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-3 10:27:55] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:28:0] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 608406 (expires in 5 minutes)
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 608406 (expires in 2 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 10:28:9] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:28:20] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 10:29:31] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:29:36] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 940772 (expires in 5 minutes)
+Generated OTP for 1023172721141624832: 940772 (expires in 2 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 10:29:48] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:29:54] higgh_dev (1023172721141624832) > {otpModal}
+Successful OTP verification for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-3 10:31:15] toohiggh (864008800892878908) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:31:20] toohiggh (864008800892878908) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 864008800892878908: 764379 (expires in 5 minutes)
+Generated OTP for 864008800892878908: 764379 (expires in 2 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 10:31:30] toohiggh (864008800892878908) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:31:39] toohiggh (864008800892878908) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 864008800892878908
+[ Shard 0 - INFO  ] [2024-11-3 10:34:56] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:34:57] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 0 messages
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 10:35:5] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 10:35:6] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 10:35:20] toohiggh (864008800892878908) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:35:26] toohiggh (864008800892878908) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 864008800892878908: 219037 (expires in 5 minutes)
+[ Shard 0 - INFO  ] Generated OTP for 864008800892878908: 219037 (expires in 2 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 10:35:38] toohiggh (864008800892878908) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:35:45] toohiggh (864008800892878908) > {otpModal}
+[ Shard 0 - ERROR ] Error during OTP verification: TypeError: Cannot read properties of undefined (reading 'roleId')
+    at handleModal (C:\Users\Admin\Desktop\Kuku\Email-Verifier\buttons\verifyOTP.js:29:66)
+    at execute (C:\Users\Admin\Desktop\Kuku\Email-Verifier\events\interactionCreate.js:71:12)
+    at Client.emit (node:events:519:28)
+    at InteractionCreateAction.handle (C:\Users\Admin\Desktop\Kuku\Email-Verifier\utils\Overrides\InteractionEvent.js:98:10)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\WebSocketManager.js:348:31)
+    at WebSocketManager.<anonymous> (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\discord.js\src\client\websocket\WebSocketManager.js:232:12)
+    at WebSocketManager.emit (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@vladfrangu\async_event_emitter\dist\index.cjs:287:31)
+    at WebSocketShard.<anonymous> (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@discordjs\ws\dist\index.js:1190:51)
+    at WebSocketShard.emit (C:\Users\Admin\Desktop\Kuku\Email-Verifier\node_modules\@vladfrangu\async_event_emitter\dist\index.cjs:287:31)
+[ Shard 0 - INFO  ] [2024-11-3 10:40:26] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:40:36] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:40:36] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 0 messages
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 10:40:44] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 10:40:46] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 10:41:3] higgh_dev (1023172721141624832) > /setup 1302490751263051838 1302474063872135241
+[ Shard 0 - INFO  ] Verification configuration set: {
+  channelId: '1302490751263051838',
+  roleId: '1302474063872135241',
+  location: 'Not specified'
+}
+[ Shard 0 - INFO  ] [2024-11-3 10:41:22] toohiggh (864008800892878908) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-3 10:41:27] toohiggh (864008800892878908) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 864008800892878908: 837724 (expires in 5 minutes)
+[ Shard 0 - INFO  ] Generated OTP for 864008800892878908: 837724 (expires in 2 minutes)
+[ Shard 0 - INFO  ] [2024-11-3 10:41:35] toohiggh (864008800892878908) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-3 10:41:42] toohiggh (864008800892878908) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 864008800892878908
+[ Shard 0 - INFO  ] Attempting to add role: Verified to user: toohiggh
+[ Shard 0 - INFO  ] [2024-11-3 10:42:53] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:42:58] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:2] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:8] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:11] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:17] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:22] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:27] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:41] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:43:48] [RELOAD] Successfully reloaded buttons/verifyOTP.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:25] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:28] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:30] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:35] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:38] [RELOAD] Successfully reloaded commands/setupVerifyChannel.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:49] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:52] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:56] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:45:59] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:46:3] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:46:15] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-3 10:48:49] [RELOAD] Successfully reloaded buttons/support.js
+[ Shard 0 - INFO  ] [2024-11-3 10:49:8] [RELOAD] Successfully reloaded buttons/support.js
+[ Shard 0 - INFO  ] [2024-11-3 10:49:25] [RELOAD] Successfully reloaded buttons/support.js
+[ Shard 0 - INFO  ] [2024-11-3 10:49:32] [RELOAD] Successfully reloaded buttons/support.js
+[ Shard 0 - INFO  ] [2024-11-3 10:49:35] [RELOAD] Successfully reloaded buttons/support.js
+[ Shard 0 - INFO  ] [2024-11-3 10:49:38] [RELOAD] Successfully reloaded buttons/support.js
+[ Shard 0 - INFO  ] [2024-11-3 10:50:16] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 0 messages
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-3 10:50:24] Logging in...
+[ Shard 0 - INFO  ] [2024-11-3 10:50:25] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-3 10:50:33] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0

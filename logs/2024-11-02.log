@@ -1,0 +1,69 @@
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-2 16:42:9] Logging in...
+[ Shard 0 - INFO  ] [2024-11-2 16:42:11] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-2 16:42:16] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-2 16:42:23] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-2 16:42:34] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-2 16:42:39] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - ERROR ] [BUTTONS] Failed to load ./buttons/enteremail.js: No custom ID has been set
+[ Shard 0 - INFO  ] [2024-11-2 16:43:56] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:43:58] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:45:10] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:45:17] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-2 16:45:23] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-2 16:48:37] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:48:41] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:48:48] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:49:16] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-2 16:49:28] higgh_dev (1023172721141624832) > /setup 1301741293306908703 1
+[ Shard 0 - INFO  ] [2024-11-2 16:49:32] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-2 16:49:39] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-2 16:50:41] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:50:43] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 16:51:31] higgh_dev (1023172721141624832) > /setup 1301741293306908703 1
+[ Shard 0 - INFO  ] [2024-11-2 16:52:4] higgh_dev (1023172721141624832) > /setup 1301741293306908703 1
+[ Shard 0 - INFO  ] [2024-11-2 16:52:31] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-2 16:56:13] Logging in...
+[ Shard 0 - INFO  ] [2024-11-2 16:56:14] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-2 16:56:30] higgh_dev (1023172721141624832) > /setup 1301741293306908703 1
+[ Shard 0 - INFO  ] [2024-11-2 16:56:44] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-2 16:56:49] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] [2024-11-2 16:56:57] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-2 16:57:6] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] [2024-11-2 16:57:12] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-2 16:57:18] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] [2024-11-2 17:2:14] [RELOAD] Failed to load new file data - Was it just created?
+[ Shard 0 - INFO  ] [2024-11-2 17:2:25] [RELOAD] Failed to load new file data - Was it just created?
+[ Shard 0 - INFO  ] [2024-11-2 17:5:19] [RELOAD] Successfully reloaded buttons/enteremail.js
+[ Shard 0 - INFO  ] [2024-11-2 17:5:27] SIGINT: Exiting...
+[ Shard 0 - ERROR ] Shard 0 exited with code 0
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 1 context
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 5 commands
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 6 buttons
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 1 menus
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 1 modals
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 1 messages
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Loaded 3 events
+[ Shard 0 - INFO  ] [2024-11-2 17:5:52] Logging in...
+[ Shard 0 - INFO  ] [2024-11-2 17:5:53] Logged in as DEVS#2336!
+[ Shard 0 - INFO  ] [2024-11-2 17:6:44] higgh_dev (1023172721141624832) > [enterEmail]
+[ Shard 0 - INFO  ] [2024-11-2 17:6:50] higgh_dev (1023172721141624832) > {emailModal}
+[ Shard 0 - INFO  ] Generated OTP for 1023172721141624832: 491676 (expires in 5 minutes)
+[ Shard 0 - INFO  ] [2024-11-2 17:6:57] higgh_dev (1023172721141624832) > [verifyOTP]
+[ Shard 0 - INFO  ] [2024-11-2 17:7:13] higgh_dev (1023172721141624832) > {otpModal}
+[ Shard 0 - INFO  ] Successful OTP verification for 1023172721141624832
+[ Shard 0 - INFO  ] [2024-11-2 17:8:32] [RELOAD] Successfully reloaded buttons/verifyOTP.js
