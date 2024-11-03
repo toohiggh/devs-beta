@@ -1,13 +1,13 @@
 {
-	"TOKEN": "MTMwMDY0NzY2NTAyOTM1MzU3NA.GyPtKr.V152iLJreI06dni49FJpbLAW-fBVc26NEnn9HI",
-	"APP_ID": "1300647665029353574",
-	"DEV_GUILD_ID": "1300823427271098481",
+	"TOKEN": "",
+	"APP_ID": "",
+	"DEV_GUILD_ID": "",
 	"PREFIX": "!",
 	"emailConfig": {
-		"host": "smtp.gmail.com",
+		"host": "smtp.email.com",
 		"port": 587,
 		"secure": false,
-		"user": "higghtoo@gmail.com",
-		"pass": "kmuz ekod tltx jdtm"
+		"user": "username@email.com",
+		"pass": "abcd efgh ijkl mnop"
 	}
 }
